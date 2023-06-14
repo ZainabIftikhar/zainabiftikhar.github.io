@@ -1,0 +1,23 @@
+title: Zainab Iftikhar
+tagline: Ph.D. Candidate in CS at Brown
+url: http://zainabiftikhar.com
+baseurl: ""
+
+markdown: kramdown
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+github:
+  repo: https://zainabiftikhar/zainabiftikhar.github.io
+  
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "assets/cv.pdf"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?hl=en&user=x9GuCAQAAAAJ"
+ - name: "Twitter"
+   link: "https://twitter.com/ziftikha"
