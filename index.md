@@ -16,7 +16,7 @@ Previously, I worked as a software engineer at [Pantera Energy](https://panterae
 # Updates
 > May 2023: I passed my comprehensive exams. I'm now a Ph.D. Candidate.
 
-> April 2023: I presented the <a href="https://jeffhuang.com/papers/LiveTyping_CHI23.pdf">Live Typing</a> paper at <a href="https://chi2023.acm.org/">CHI</a> in Hamburg, Germany.  <br>
+> April 2023: I presented the [Live Typing](/papers/LiveTyping_CHI23.pdf) paper at <a href="https://chi2023.acm.org/">CHI</a> in Hamburg, Germany.  <br>
 
 > December 2022: My paper on collaborative tools for online presence was accepted to #CHI2023! 
 
@@ -28,7 +28,9 @@ August 2021: I resigned from my position as a Research Associate at [HCI for Soc
 
 # Research Projects
 
-**Scalable Cognitive Behavioral Therapy**:  an accessible chat-based platform that provides peer support administered through Cogntive Behavioral Therapy (CBT) [[website](https://cheeseburgertherapy.org)]
+**Sochiatrist**: a social data extractor used to predict signals of interconnecteness and self-reflection from social messaging data [[website](https://sochiatrist.cs.brown.edu/)]
+
+**Scalable CBT**: an accessible chat-based platform that provides peer support administered through Cogntive Behavioral Therapy (CBT) [[website](https://cheeseburgertherapy.org)]
 
 <!--- peer support by administering Cognitive Behavioral Therapy --> 
 
