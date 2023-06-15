@@ -11,8 +11,6 @@ I'm a third year Ph.D. Candidate at Brown University studying Computer Science. 
 
 Previously, I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and then as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). I received my B.Sc. from [NUCES](https://www.nu.edu.pk) in 2018, where I majored in Computer Science. Then I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). 
 
-I like to go on long walks with my matcha. 
-
 ---
 
 # Updates
