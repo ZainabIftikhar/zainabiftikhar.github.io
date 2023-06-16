@@ -7,7 +7,7 @@ permalink: blog/hello-world
 
 Welcome to `zainabiftikhar.com`
 
-### Life Updates
+## Life Updates
 
 Before I can begin updating you on 2023, let's rewind back to 2018. I graduated from FAST-NUCES, Pakistan with a B.Sc. in Computer Science. The four years of my life were full of interesting people, captivating lectures, and lifelong friends.
 

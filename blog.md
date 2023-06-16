@@ -4,12 +4,14 @@ title: Blog
 permalink: blog/
 ---
 
+# Blog
+
 <p>Fun things I develop and share with the internet.</p>
 
 <div class="posts">
   {% for post in site.categories.blog limit:5 %}
   <article class="post">
-    <h2 class="post-title">
+    <h2>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
