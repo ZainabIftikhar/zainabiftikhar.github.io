@@ -13,11 +13,11 @@ github:
   repo: https://zainabiftikhar/zainabiftikhar.github.io
   
 nav:
- - name: "About"
+ - name: "about"
    link: "/"
- - name: "Resume"
-   link: "assets/cv.pdf"
- - name: "Google Scholar"
+ - name: "blog"
+   link: "/blog"
+ - name: "cv"
+   link: "/assets/cv.pdf"
+ - name: "google scholar"
    link: "https://scholar.google.com/citations?hl=en&user=x9GuCAQAAAAJ"
- - name: "Twitter"
-   link: "https://twitter.com/ziftikha"
