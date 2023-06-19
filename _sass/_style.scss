@@ -1,5 +1,4 @@
 @import "vars";
-@import "typography";
 
 html, body {
     margin: 0;
@@ -64,6 +63,71 @@ hr {
 .wrapper {
     min-height: 100%;
 }
+
+.header-icon {
+    margin-right: 0.75rem;
+    color: $header-text;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+    
+ol {
+    counter-reset: list;
+}
+
+ol > li {
+    list-style-position: none;
+    position: relative;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ul > li {
+    margin: 5px 0 5px 0;
+}
+ul {
+    padding: 0 20px 0 20px;;
+}
+ol {
+    padding: 0 30px 0 30px;
+}
+ol > li:before {
+    content: "[" counter(list, decimal) "] ";
+    counter-increment: list;
+    position: absolute;
+    left: -30px;
+}
+blockquote {
+    border-left: 5px solid #333333;
+    margin: 10px 0 10px 0;
+    padding: 0.5px 8px 0.5px 8px;
+}
+    
+.about-me-grid {
+        margin: -10px 0 0 18px;
+        float: right;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        .profile-picture {
+            height: $image-size;
+            width: $image-size;
+            margin: -20px 0 0 0;
+            filter: drop-shadow(20px 20px 10px rgba(255, 255, 255, 0.3));
+        }
+        img {
+            text-align: center;
+            width: 100%;
+        }
+        .social-links {
+            margin: 10px 0 10px 15px;
+        }
+    
+    }
 
 footer {
 	background-color: $footer-bg;
@@ -134,6 +198,12 @@ footer {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+}
+
+@media (max-width: $small-width) {
+    img {
+        margin-top: -5px;
+    }
 }
 
 @media screen and (max-width: 768px) {

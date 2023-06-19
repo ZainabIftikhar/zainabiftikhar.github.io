@@ -5,7 +5,16 @@ layout: default
 
 # About Me
 
-<img class="profile-picture" src="/images/Zainab.jpg" alt="A Profile Picture for Zainab Iftikhar">
+<div class="about-me-grid" >
+    <img class="profile-picture" src="/images/Zainab.jpg" alt="A Profile Picture for Zainab Iftikhar">
+    <div class="social-links">
+		<a href="mailto:zainab_iftikhar@brown.edu"><i class="fa fa fa-envelope header-icon" aria-hidden="true"></i></a>
+		<a href="http://www.twitter.com/ziftikha"><i class="fa-lg fa fa-twitter header-icon" aria-hidden="true"></i></a>
+		<a href="https://github.com/zainabiftikhar"><i class="fa-lg fa fa-github-square header-icon" aria-hidden="true"></i></a>
+		<a href="http://www.linkedin.com/in/zainab-iftikhar/"><i class="fa-lg fa fa-linkedin-square header-icon" aria-hidden="true"></i></a>
+		<a href="https://scholar.google.com/citations?user=x9GuCAQAAAAJ&hl=en"><i class="fa-lg fa fa-graduation-cap header-icon" aria-hidden="true"></i></a>
+	</div>
+</div>
 
 I'm a third year Ph.D. Candidate at Brown University studying Computer Science. I work in the [Brown HCI Lab](https://hci.brown.edu/) advised by [Jeff Huang](https://jeffhuang.com/). My research focuses on AI-assisted communication tools within Human-Computer Interaction to understand how people connect, build and make meaning of their online relationships across different modes of time.
 
@@ -68,4 +77,4 @@ _Human-Computer Interaction–INTERACT 2021: 18th IFIP TC 13 International Confe
 
 # Blog
 
-Fun things I develop and share with the internet.
+Fun things I develop and [share](https://zainabiftikhar.com/blog/) with the internet.
