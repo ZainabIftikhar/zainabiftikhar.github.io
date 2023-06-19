@@ -16,9 +16,11 @@ layout: default
 	</div>
 </div>
 
-I'm a third year Ph.D. Candidate at Brown University studying Computer Science. I work in the [Brown HCI Lab](https://hci.brown.edu/) advised by [Jeff Huang](https://jeffhuang.com/). My research focuses on AI-assisted communication tools within Human-Computer Interaction to understand how people connect, build and make meaning of their online relationships across different modes of time.
+I'm a third year Ph.D. Candidate at Brown University studying Computer Science. I work in the [Brown HCI Lab](https://hci.brown.edu/) advised by [Jeff Huang](https://jeffhuang.com/). 
 
-Previously, I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and then as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). I received my B.Sc. from [NUCES](https://www.nu.edu.pk) in 2018, where I majored in Computer Science. Then I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). 
+My research focuses on AI-assisted communication tools within Human-Computer Interaction to understand how people connect, build and make meaning of their online relationships across different modes of time.
+
+Previously, I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and then as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). I received my B.Sc. from [NUCES](https://www.nu.edu.pk) in 2018, where I majored in Computer Science. 
 
 ---
 
