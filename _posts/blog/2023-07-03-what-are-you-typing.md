@@ -1,0 +1,35 @@
+---
+layout: post
+title: What are you Typing?
+categories: blog
+permalink: blog/what-are-you-typing
+---
+
+Dot dot dot...
+
+## Enhancing Digital Communication: The Power of Rich Typing Indicators
+
+
+> Imagine being able to see the words appear as someone types, giving you a sense of where the conversation is heading and reducing the uncertainty that often comes with messaging.
+
+### The Limitations of Messaging
+
+Have you ever found yourself anxiously waiting for a response, unsure of what the other person is typing? The absence of immediate feedback, tone, facial expressions, and other non-verbal cues can sometimes hinder effective text-based communication. Hence, despite the convenient nature of messaging platforms, there has been a rising anxiousness around the <em> ... </em> or <em> Zainab is typing </em>. This anxiousness can be attributed to the low richness associated with messaging.
+
+In the 1908s, Daft and Lengel posed a Media Richness Theory stating that the effectiveness of communication is influenced by the richness of the medium used since different mediums vary in their ability to convey information, and certain media, such as face to face, are more effective for conveying complex messages. To compensate for the leanness of the text, people use multiple approaches. For instance, repetitive letters can convey emphasis <em>(sooooooo?)</em>, while punctuation can show excitement or anger <em>(no way!!!!!!)</em>. These approaches are known as paralinguistic cues. Apart from that, there's a rise in emojis and stickers for emotional disclosure. However, such approaches still lack social presence, calling for system-driven approaches like typing indicators and awareness mechanisms. Effective as they may be, awareness mechanisms lack synchronous communication and can often miss the "in-between" during message composition.
+
+### Enhanced Communication and Closer Connections
+
+To address the limitations of messaging, a research paper employed both quantitative and qualitative methods to study the impact of rich typing indicators on communication. Rich typing indicators refer to features in messaging interfaces that display text as it is being typed, offering users more real-time visibility into the ongoing conversation. By assessing subjective workload and considering users' experiences, the researchers sought to understand how these indicators could enhance communication. 
+
+The findings of the study revealed that more expressive typing indicators were perceived as "rich in communication" by users. The visibility of text being typed in real-time allowed for a closer connection between individuals. By seeing the words form as they were being written, users could anticipate the direction of the conversation, making the interaction more engaging and meaningful. These indicators acted as a bridge to fill the void created by the absence of non-verbal cues, enabling users to establish a stronger connection with their conversation partners. Wouldn't it be reassuring to have a glimpse into the other person's thoughts and intentions while you're both engaged in a messaging conversation?
+
+### Increased Perceived Co-Presence
+
+Another notable outcome of the study was the impact of rich typing indicators on users' perceived co-presence. Co-presence refers to the sense of being together with someone, even in a digital environment. The heightened co-presence of these typing indicators was reflective in multiple themes associated with real-time text visibility: for instance, the indicator was validating, encouraged active listening, and was highly communicative, fostering connection. Imagine feeling as if you were physically present with the other person, despite the physical distance.
+
+Participants stated that the heightened co-presence of the indicator would have been helpful in times when they felt **lonely** and **needed to connect for help**. These components are highly effective for therapeutic sessions, and there might be room for richer indicators to be embedded in text-based therapeutic communication. Our study is composed of a problem-solving scenario that can be reflective of a problem-solving therapeutic setting like CBT, where users are geared to think of negative events in a problem-solving way.
+
+### Customized Indicators for Relationship Maintenance and Task-Based Communication
+
+The research also indicated that there may be specific benefits in designing customized typing indicators for different types of communication. In relationships where maintenance and connection are crucial, rich typing indicators could play a significant role. These indicators offer reassurance and help individuals understand that their partner is actively engaged in the conversation. Similarly, in task-based communication, customized indicators could be designed to provide updates on progress, deadlines, or other relevant information. This customization can aid in improving
