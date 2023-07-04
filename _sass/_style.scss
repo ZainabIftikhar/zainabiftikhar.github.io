@@ -157,6 +157,26 @@ footer {
     color: $footer-text;
 }
 
+.bibtex-wrapper {
+    overflow-x: scroll;
+    background-color: rgba(0,0,0,0.05);
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    margin-top: 1rem;
+    font-size: 0.75rem;
+}
+
+.highlight {
+    width: 0;
+}
+
+pre {
+    display: block;
+    white-space-collapse: preserve;
+    text-wrap: nowrap;
+    margin: 1em 0px;
+}
+
 /* Mobile */
 
 @media (max-width: 800px) {
