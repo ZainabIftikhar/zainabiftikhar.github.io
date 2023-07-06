@@ -20,7 +20,9 @@ In the 1980s, Daft and Lengel posed a Media Richness Theory stating that the eff
 To address the limitations of messaging, a [research study](https://zainabiftikhar.com/papers/LiveTyping_CHI23.pdf), titled, <em>“Together but not together”: Evaluating Typing Indicators for
 Interaction-Rich Communication</em>, by Brown CS Ph.D. students [Zainab Iftikhar](https://zainabiftikhar.com), Yumeng Ma and faculty member [Jeff Huang](https://jeffhuang.com) employed both quantitative and qualitative methods to study the impact of rich typing indicators on collaboration in communication. Rich typing indicators refer to features in messaging interfaces that display text as it is being typed, offering users more real-time visibility into the ongoing conversation. By assessing subjective workload and considering users' experiences, the researchers sought to understand how these indicators could enhance communication. 
 
-https://github.com/ZainabIftikhar/zainabiftikhar.github.io/assets/23429685/db1e3784-f4bf-4277-8443-c80a458a6df5
+<div class="video-container" style="width: 800px;">
+  <iframe src="https://github.com/ZainabIftikhar/zainabiftikhar.github.io/assets/23429685/db1e3784-f4bf-4277-8443-c80a458a6df5" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The findings of the study revealed that more expressive typing indicators were perceived as "rich in communication" by users. The visibility of text being typed in real-time allowed for a closer connection between individuals. By seeing the words form as they were being written, users could anticipate the direction of the conversation, making the interaction more engaging and meaningful. These indicators acted as a bridge to fill the void created by the absence of non-verbal cues, enabling users to establish a stronger connection with their conversation partners. Wouldn't it be reassuring to have a glimpse into the other person's thoughts and intentions while you're both engaged in a messaging conversation?
 
