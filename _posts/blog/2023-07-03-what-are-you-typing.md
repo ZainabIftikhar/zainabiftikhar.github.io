@@ -5,7 +5,7 @@ categories: blog
 permalink: blog/what-are-you-typing
 ---
 
-<em>...Enhancing Digital Communication: The Power of Rich Typing Indicators</em>
+<em>...Live Typing: Increasing Social Presence in Messaging</em>
 
 > Imagine being able to see the words appear as someone types, giving you a sense of where the conversation is heading and reducing the uncertainty that often comes with messaging.
 
