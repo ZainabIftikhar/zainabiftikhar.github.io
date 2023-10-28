@@ -45,7 +45,7 @@ August 2021: I resigned from my position as a Research Associate at [HCI for Soc
 
 <!--- peer support by administering Cognitive Behavioral Therapy --> 
 
-**Live Typing**: real-time typing indicators designed to support interaction rich text-based conversations [[code](https://github.com/brownhci/live-typing)] [[npm package](https://www.npmjs.com/package/live-typing)]
+**Live Typing**: real-time typing indicators designed to increasing social presence for improved collaboration and task performance [[code](https://github.com/brownhci/live-typing)] [[npm package](https://www.npmjs.com/package/live-typing)]
 
 **Corona Assisted**: Pakistan's first chat-based platform that integrates eXplainable Artificial Intelligence (XAI) for fact-checking information on COVID-19
 [[website](https://corona.assisted.pk/en)]

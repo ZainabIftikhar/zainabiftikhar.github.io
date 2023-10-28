@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Blog
-permalink: blog/
+title: Projects
+permalink: projects/
 ---
 
-# Blog
+# Research Projects
 
-<p>Fun things I develop and share with the internet.</p>
+<p> Things I've developed involved in a mix of stuff, including research, academic course projects, and side interests. </p>
 
 <div class="posts">
-  {% for post in site.categories.blog limit:5 %}
+  {% for post in site.categories.projects %}
   <article class="post">
     <h2>
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -21,6 +21,7 @@ permalink: blog/
 
     {{ post.excerpt }}
   </article>
-  <hr/>
   {% endfor %}
 </div>
+
+<hr/>
