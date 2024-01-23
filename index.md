@@ -41,7 +41,7 @@ August 2021: I resigned from my position as a Research Associate at [HCI for Soc
 
 **Sochiatrist**: a social data extractor used to predict signals of interconnecteness and self-reflection from social messaging data [[website](https://sochiatrist.cs.brown.edu/)]
 
-**Scalable CBT**: an accessible chat-based platform that provides peer support administered through Cogntive Behavioral Therapy (CBT) [[website](https://cheeseburgertherapy.org)]
+**Scalable CBT**: an accessible chat-based platform that provides peer support through Cognitive Behavioral Therapy (CBT) [[website](https://cheeseburgertherapy.org)]
 
 <!--- peer support by administering Cognitive Behavioral Therapy --> 
 
