@@ -7,7 +7,7 @@ authors: Zainab Iftikhar
 ---
     
 <p> Mitigating bias in hiring algorithms: A Fairness Analysis. 
-<em>LANS 2022 </em></p>
+<em>exploreCSR 2022 </em></p>
 
 ----
 

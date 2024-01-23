@@ -7,7 +7,7 @@ authors: Zainab Iftikhar
 ---
     
 <p> Producing a set of bounding boxes and category labels around objects detected in images using a CNN-encoder-decoder backbone.
-<em> DL 2022 </em></p>
+<em> Deep Learning Day 2022 </em></p>
 
 ----
 
