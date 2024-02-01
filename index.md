@@ -18,7 +18,7 @@ layout: default
 
 I'm a third year Ph.D. Candidate at Brown University studying Computer Science. I work in the [Brown HCI Lab](https://hci.brown.edu/) advised by [Jeff Huang](https://jeffhuang.com/). 
 
-My research focuses on AI-assisted communication tools within Human-Computer Interaction to understand how people connect, build and make meaning of their online relationships across different modes of time.
+My research focuses on creating systems to enhance technology-driven accessibility in mental health support, legal aid, and public health information. <!-- empowering communities facing digital disparities-->
 
 Previously, I worked as a software engineer at [Pantera Energy](https://panteraenergy.pk) and then as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk). I received my B.Sc. from [NUCES](https://www.nu.edu.pk) in 2018, where I majored in Computer Science. 
 
@@ -31,9 +31,9 @@ Previously, I worked as a software engineer at [Pantera Energy](https://panterae
 
 > December 2022: My paper on collaborative tools for online presence was accepted to #CHI2023! 
 
-<!-- September 2021: I started grad school at Brown. 
+> September 2021: I started my Ph.D. at Brown!
 
-August 2021: I resigned from my position as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk) at LUMS. -->
+> August 2021: I resigned from my position as a Research Associate at [HCI for Social Well-being Lab](https://chisel.pk) at LUMS.
 
 ---
 
