@@ -3,8 +3,19 @@
     {% include head.html %}
     <body>
         <div class="wrapper">
+            <!--<h1 id="author-name" class="alignable" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>-->
+            <h1 id="author-name">Zainab Iftikhar</h1>
             <div class="navbar container">
-                <a id="author-name" class="alignable" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+                <div class="about-me-grid" >
+                    <img class="profile-picture" src="/images/Zainab.jpg" alt="A Profile Picture for Zainab Iftikhar">
+                    <div class="social-links">
+		                <a href="mailto:zainab_iftikhar@brown.edu"><i class="fa fa fa-envelope header-icon" aria-hidden="true"></i></a>
+                        <a href="http://www.twitter.com/ziftikha"><i class="fa-lg fa fa-twitter header-icon" aria-hidden="true"></i></a>
+                        <a href="https://github.com/zainabiftikhar"><i class="fa-lg fa fa-github-square header-icon" aria-hidden="true"></i></a>
+                        <a href="http://www.linkedin.com/in/zainab-iftikhar/"><i class="fa-lg fa fa-linkedin-square header-icon" aria-hidden="true"></i></a>
+                        <a href="https://scholar.google.com/citations?user=x9GuCAQAAAAJ&hl=en"><i class="fa-lg fa fa-graduation-cap header-icon" aria-hidden="true"></i></a>
+                    </div>
+                </div>
                 <ul id="navlist" class="alignable navbar-ul">
                     {% for x in site.nav %}
                     <li class="alignable nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
@@ -13,7 +24,7 @@
             </div>
             
             <div style="clear:both"></div>
-            <hr>
+            
             <div class="container content">
                 {{ content }}
             </div>
@@ -21,3 +32,5 @@
         {% include footer.html %}
     </body>
 </html>
+
+

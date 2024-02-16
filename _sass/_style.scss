@@ -1,12 +1,19 @@
 @import "vars";
 
+html {
+     -webkit-text-size-adjust: 100%;
+}
 html, body {
     margin: 0;
     padding: 0;
     height: 90%
 }
+div {
+    display: block;
+}
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100%;
 }
 a {
     text-decoration: none;
@@ -22,6 +29,24 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+h1 {
+    font-size: 2.15em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h1,h2,h3{
+    line-height: 1.1;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
 .post-title {
     display: block;
     font-size: 2em;
@@ -29,22 +54,18 @@ hr {
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: bold;
 }
 
 #author-name {
-    font-size: 3em;
-    font-weight: bold;
-    text-align: center;
-    display: block;
-    color: #272727;
+    margin-bottom: 0.1em;
+    padding-left: 0.05em;
+    color: #0b5394;
 }
 .navbar {
-    text-align: center;
+    display: block;
     padding: 2em 0 2em 0;
 }
 .navbar-ul {
-    display: inline-block;
     margin: 0;
     padding: 5px 5px 5px 0;
 }
@@ -61,7 +82,8 @@ hr {
     margin: auto;
 }
 .wrapper {
-    min-height: 100%;
+    max-width: 870px;
+    margin: 0 auto;
 }
 
 .header-icon {
@@ -69,6 +91,7 @@ hr {
     color: $header-text;
 }
 
+.sidebar
 a:hover {
     text-decoration: underline;
 }
@@ -108,7 +131,7 @@ blockquote {
     
 .about-me-grid {
     margin: -10px 0 0 18px;
-    float: right;
+    float: left;
     p & {
         padding: 0;
         margin: 0;
@@ -118,10 +141,6 @@ blockquote {
         width: $image-size;
         margin: -20px 0 0 0;
         filter: drop-shadow(20px 20px 10px rgba(255, 255, 255, 0.3));
-    }
-    img {
-        text-align: center;
-        width: 100%;
     }
     .social-links {
         margin: 10px 0 10px 10px;
@@ -177,12 +196,35 @@ pre {
     margin: 1em 0px;
 }
 
+/* Add these styles at the end of your existing CSS */
+.about-me {
+    float: left;
+    width: 30%; /* Adjust the width as needed */
+    padding-right: 20px;
+}
+
+.about-me img {
+    width: 100%;
+    border-radius: 8px; /* Optional: Add rounded corners to the image */
+}
+
+.description {
+    float: left;
+    width: 70%; /* Adjust the width as needed */
+}
+
 /* Mobile */
 
 @media (max-width: 800px) {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+    .about-me,
+    .description {
+        float: none;
+        width: 100%;
+        padding-right: 0;
     }
 }
 
@@ -234,3 +276,4 @@ pre {
         margin-bottom: 1rem;
     }
 }
+
